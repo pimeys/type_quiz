@@ -1,0 +1,13 @@
+{
+    "name": "User",
+    "fields": [
+        {
+            "name": "id",
+            "is_unique": true
+        },
+        {
+            "name": "name",
+            "is_unique": false
+        }
+    ]
+}
